@@ -1,6 +1,6 @@
-# upGrad - :rocket: Bike Sharing Assigment :bike:
+#  :rocket: Bike Sharing Assigment :bike:
 
-upGrad Linear Regression Assignment - Build a model for prediction of bike rental daily count based on the environmental and seasonal settings. 
+Linear Regression Assignment - Build a model for prediction of bike rental daily count based on the environmental and seasonal settings. 
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -61,4 +61,4 @@ Give credit here.
 - Scikit-Learn Documentation
 
 ## Contact
-Created by [@venkataravuri] - feel free to contact me!
+Created by [@Chaitu1464] - feel free to contact me!
